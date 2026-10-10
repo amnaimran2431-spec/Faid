@@ -1,0 +1,7 @@
+{
+  "name": "Fadi’s Tech Shop",
+  "description": "Premium electronics, mobile accessories, computer accessories, and tech gadgets in Johar Town, Lahore, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
